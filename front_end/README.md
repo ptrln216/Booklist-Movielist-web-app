@@ -1,4 +1,4 @@
-# front_end
+# booklist_and_movielist
 
 ## Project setup
 ```

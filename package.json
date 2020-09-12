@@ -1,7 +1,7 @@
 {
-  "name": "booklist_movielist",
+  "name": "booklist_and_movielist",
   "version": "1.0.0",
-  "description": "BookList and MovieList App",
+  "description": "BookList and MovieList Fullstack",
   "main": "index.js",
   "scripts": {
     "start": "node server/index.js",
@@ -12,7 +12,12 @@
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^4.17.1",
-    "mongodb": "^3.5.7"
+    "jsonwebtoken": "^8.5.1",
+    "moment": "^2.26.0",
+    "mongodb": "^3.5.7",
+    "mongoose": "^5.9.16",
+    "objectid-to-timestamp": "^1.3.0",
+    "sha1": "^1.1.1"
   },
   "devDependencies": {
     "nodemon": "^2.0.4"
